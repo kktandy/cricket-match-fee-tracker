@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cricket-match-fee-tracker/static/css/main.a88445ca.css",
+    "main.js": "/cricket-match-fee-tracker/static/js/main.a98ea06c.js",
+    "static/js/239.e2de27b8.chunk.js": "/cricket-match-fee-tracker/static/js/239.e2de27b8.chunk.js",
+    "static/js/977.a1d51926.chunk.js": "/cricket-match-fee-tracker/static/js/977.a1d51926.chunk.js",
+    "static/js/732.9edca5d4.chunk.js": "/cricket-match-fee-tracker/static/js/732.9edca5d4.chunk.js",
+    "static/js/453.f8847d46.chunk.js": "/cricket-match-fee-tracker/static/js/453.f8847d46.chunk.js",
+    "index.html": "/cricket-match-fee-tracker/index.html",
+    "main.a88445ca.css.map": "/cricket-match-fee-tracker/static/css/main.a88445ca.css.map",
+    "main.a98ea06c.js.map": "/cricket-match-fee-tracker/static/js/main.a98ea06c.js.map",
+    "239.e2de27b8.chunk.js.map": "/cricket-match-fee-tracker/static/js/239.e2de27b8.chunk.js.map",
+    "977.a1d51926.chunk.js.map": "/cricket-match-fee-tracker/static/js/977.a1d51926.chunk.js.map",
+    "732.9edca5d4.chunk.js.map": "/cricket-match-fee-tracker/static/js/732.9edca5d4.chunk.js.map",
+    "453.f8847d46.chunk.js.map": "/cricket-match-fee-tracker/static/js/453.f8847d46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a88445ca.css",
+    "static/js/main.a98ea06c.js"
+  ]
+}
