@@ -1,0 +1,20 @@
+.player-list-table {
+    display: table;
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .player-row {
+    display: table-row;
+  }
+  
+  .player-cell {
+    display: table-cell;
+    padding: 8px;
+    vertical-align: middle;
+  }
+  
+  .player-cell input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
